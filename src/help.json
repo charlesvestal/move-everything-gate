@@ -1,0 +1,67 @@
+{
+  "title": "Gate",
+  "children": [
+    {
+      "title": "Overview",
+      "lines": [
+        "Noise gate and",
+        "downward expander.",
+        "",
+        "Two modes:",
+        " Gate: hard mute",
+        "  below threshold",
+        " Expand: ratio-based",
+        "  gain reduction",
+        "",
+        "Hysteresis prevents",
+        "chattering at the",
+        "threshold."
+      ]
+    },
+    {
+      "title": "Controls",
+      "children": [
+        {
+          "title": "Knob Mapping",
+          "lines": [
+            "Knob 1: Threshold",
+            " -80 to 0 dB",
+            "",
+            "Knob 2: Attack",
+            " Gate open speed",
+            " (0.1-50ms)",
+            "",
+            "Knob 3: Hold",
+            " Hold open time",
+            " (0-500ms)",
+            "",
+            "Knob 4: Release",
+            " Gate close speed",
+            " (10-1000ms)"
+          ]
+        },
+        {
+          "title": "Gate Settings",
+          "lines": [
+            "Knob 5: Range",
+            " Max attenuation",
+            " (0-80 dB). Lower",
+            " values = soft gate.",
+            "",
+            "Knob 6: Ratio",
+            " Expander ratio",
+            " (1:1 to 20:1)",
+            " Used in Expand mode",
+            "",
+            "Knob 7: Hysteresis",
+            " Gap between open/",
+            " close levels (0-12dB)",
+            "",
+            "Knob 8: Mode",
+            " Gate or Expand"
+          ]
+        }
+      ]
+    }
+  ]
+}
