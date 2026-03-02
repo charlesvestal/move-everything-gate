@@ -2,7 +2,7 @@
   "id": "gate",
   "name": "GATE",
   "abbrev": "GT",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Noise gate and downward expander",
   "author": "charlesvestal",
   "license": "MIT",
